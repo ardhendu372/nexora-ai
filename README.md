@@ -69,3 +69,10 @@ While building Nexora AI, I learned how to connect a React frontend with a FastA
 Ardhendu Nayak
 
 GitHub: https://github.com/ardhendu372
+## Screenshots
+
+### Welcome Screen
+
+![Nexora AI Welcome Screen](screenshots/welcome-screen.png)
+### Chat Interface
+![Nexora AI Chat Interface](screenshots/chat-interface.png)
